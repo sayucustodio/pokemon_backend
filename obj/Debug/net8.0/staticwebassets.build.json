@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fDjS2t8qNb7ynsApSKfCqHhATjzMMmZpKfcOKfN0blI=",
+  "Source": "pokemon_backend",
+  "BasePath": "_content/pokemon_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

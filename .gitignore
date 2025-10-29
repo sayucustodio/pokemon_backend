@@ -1,0 +1,41 @@
+# Ficheros de compilación y resultados de .NET
+[Bb]in/
+[Oo]bj/
+
+# Ficheros de resultados de pruebas
+[Tt]est[Rr]esults*/
+
+# Archivos de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ficheros generados por Visual Studio
+*.iobj
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.vspscc
+*.vssscc
+_ReSharper*/
+[Rr]e[Ss]harper
+.vs/
+
+# Dotnet core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# Archivos de configuración de Build
+*.svd
+*.DotSettings
+*.DotSettings.user
+
+# Otras herramientas
+*.vsidx
