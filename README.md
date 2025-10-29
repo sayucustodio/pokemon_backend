@@ -15,7 +15,7 @@ Este proyecto es el backend que alimenta a una aplicación de Pokemoni. Su únic
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 *   **.NET 8** - La última versión del framework de Microsoft.
 *   **ASP.NET Core Web API** - Para construir la API.
@@ -25,7 +25,7 @@ Este proyecto es el backend que alimenta a una aplicación de Pokemoni. Su únic
 
 ---
 
-## 🏃‍♂️ ¿Cómo ejecutar este proyecto?
+## ¿Cómo ejecutar este proyecto?
 
 Si quieres probarlo en tu máquina local, sigue estos pasos:
 
